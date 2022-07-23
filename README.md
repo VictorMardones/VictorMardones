@@ -3,22 +3,12 @@
 Mi nombre es Víctor Mardones, soy estudiante de Ingeniería Civil Informática en UFRO (Universidad de La Frontera).
 
 - 🔭 En estos momentos estoy trabajando en proyectos personales.
-- 🌱 En estos momentos estoy aprendiendo el framework Spring, inteligencia artificial y el lenguaje de programación Kotlin.
 
 ### Hey there! 👋
 
 My name is Víctor Mardones and I'm a Computer Engineering student at UFRO (Universidad de La Frontera).
 
 - 🔭 I'm currently working on personal projects.
-- 🌱 I'm currently learning how to use Spring framework, artificial intelligence and the Kotlin programming language.
-
-### Favorite programming languages
-
-- Kotlin
-- Python
-- TypeScript
-- Rust
-- Elixir
 
 <!--
 **VictorMardones/VictorMardones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
